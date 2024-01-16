@@ -1,4 +1,4 @@
-## Hi there 👋
+## Dive into the world of TopDev-media ! 💻🤩
 
 <!--
 
@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![favicon3](https://github.com/TopDev-media/.github/assets/78490085/c098f053-a755-4a3c-ba4a-29a39f152e76)
